@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.mainContainer {
+  background-color: #ffc2a0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.card {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: #ffffff;
+  width: 85%;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+}
+
+.heading {
+  color: #ff8542;
+  font-size: 30px;
+  text-align: center;
+}
+
+.todoscontainer {
+  padding: 0;
+}
